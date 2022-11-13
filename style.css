@@ -9,12 +9,15 @@ button{
 }
 div{
     background-color:rgb(255, 95, 154) ;
-    color:darkorchid;
+    color:rgb(8, 61, 0);
     position: fixed;
     bottom:0;
-    text-shadow: 5px 5px 5px #00d5ff;
+    text-shadow: 5px 5px 5px #ffffff;
     font-size: 30px;
     width: 100%;
-    font-family:'Dancing Script', cursive;
     text-align: center;
+}
+h3{
+    background-color:deeppink;
+    color:black;
 }
